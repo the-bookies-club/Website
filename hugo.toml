@@ -13,6 +13,7 @@ ShowPostNavLinks = true
 ShowBreadCrumbs = true
 ShowCodeCopyButtons = true
 ShowRssButtonInSectionTermList = true
+ShowAllPagesInArchive = true
 ShowPageNums = true
 ShowToc = true
 
@@ -23,11 +24,6 @@ We are a group of book lovers who enjoy action, adventure, and mystery in partic
 """
 
 [[params.socialIcons]]
-name = "Discord"
-title = "Join discord community"
-url = "https://discord.gg/ahpmTvhVmp"
-
-[[params.socialIcons]]
 name = "github"
 title = "View Source on Github"
 url = "https://github.com/adityatelange/hugo-PaperMod"
@@ -35,6 +31,6 @@ url = "https://github.com/adityatelange/hugo-PaperMod"
 [languages.en.menu]
 main = [
     { name = "Search", url = "search/", weight = 10 },
-    { name = "Join Us", url = "https://discord.com"},
+    { name = "Archive", url = "archives/", weight = 10},
 ]
 
