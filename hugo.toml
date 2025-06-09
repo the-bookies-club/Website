@@ -25,8 +25,8 @@ We are a group of book lovers who enjoy action, adventure, and mystery in partic
 
 [[params.socialIcons]]
 name = "github"
-title = "View Source on Github"
-url = "https://github.com/adityatelange/hugo-PaperMod"
+title = "Github"
+url = "https://github.com/the-bookies-club"
 
 [languages.en.menu]
 main = [
