@@ -1,0 +1,29 @@
+baseURL = 'https://thebookies.club/'
+languageCode = 'en-us'
+title = 'The Bookies Club'
+theme = 'papermod'
+enableEmoji = true
+
+[params]
+[params.homeInfoParams]
+Title = ":books: Let's read together."
+Content = """
+We are a group of book lovers who enjoy action, adventure, and mystery in particular.
+"""
+
+[[params.socialIcons]]
+name = "Discord"
+title = "Join discord community"
+url = "https://discord.gg/ahpmTvhVmp"
+
+[[params.socialIcons]]
+name = "github"
+title = "View Source on Github"
+url = "https://github.com/adityatelange/hugo-PaperMod"
+
+[languages.en.menu]
+main = [
+    { name = "Search", url = "search/", weight = 10 },
+    { name = "Join Us", url = "https://discord.com"},
+]
+
