@@ -5,6 +5,17 @@ theme = 'papermod'
 enableEmoji = true
 
 [params]
+defaultTheme = "auto"
+ShowShareButtons = true
+ShowReadingTime = true
+displayFullLangName = true
+ShowPostNavLinks = true
+ShowBreadCrumbs = true
+ShowCodeCopyButtons = true
+ShowRssButtonInSectionTermList = true
+ShowPageNums = true
+ShowToc = true
+
 [params.homeInfoParams]
 Title = ":books: Let's read together."
 Content = """
