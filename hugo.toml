@@ -4,6 +4,13 @@ title = 'The Bookies Club'
 theme = 'papermod'
 enableEmoji = true
 
+[outputs]
+home = [
+    "HTML",
+    "RSS",
+    "JSON",
+]
+
 [params]
 defaultTheme = "auto"
 ShowShareButtons = true
