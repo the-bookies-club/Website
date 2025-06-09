@@ -37,6 +37,7 @@ url = "https://github.com/the-bookies-club"
 
 [languages.en.menu]
 main = [
+    { name = "About", url = "about/", weight = 10},
     { name = "Search", url = "search/", weight = 10 },
     { name = "Archive", url = "archives/", weight = 10},
 ]
