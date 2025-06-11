@@ -23,6 +23,7 @@ ShowRssButtonInSectionTermList = true
 ShowAllPagesInArchive = true
 ShowPageNums = true
 ShowToc = true
+ShowFullTextinRSS = true
 
 [params.homeInfoParams]
 Title = ":books: Let's read together."
@@ -32,8 +33,13 @@ We are a group of book lovers who enjoy action, adventure, and mystery in partic
 
 [[params.socialIcons]]
 name = "github"
-title = "Github"
+title = "GitHub"
 url = "https://github.com/the-bookies-club"
+
+[[params.socialIcons]]
+name = "rss"
+title = "RSS"
+url = "https://thebookies.club/index.xml"
 
 [languages.en.menu]
 main = [
