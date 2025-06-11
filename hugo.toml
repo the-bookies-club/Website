@@ -39,7 +39,7 @@ url = "https://github.com/the-bookies-club"
 [[params.socialIcons]]
 name = "rss"
 title = "RSS"
-url = "https://thebookies.club/index.xml"
+url = "/index.xml"
 
 [languages.en.menu]
 main = [
