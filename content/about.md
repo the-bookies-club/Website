@@ -7,6 +7,6 @@ Welcome to The Bookies! We're a group of nerds who love reading books. Whether i
 If you'd like to join, you can join the wait list here. We're currently growing our membership slowly. Membership is granted on a first come first serve basis as slots open up. 
 ```
 {{< rawhtml >}}
-<iframe src="https://cryptpad.fr/form/#/2/form/view/d2DmoobcHuzvMPhAu81quw09QJgzmD0pQiJFUi3fMj0/embed/"></iframe>
+<iframe src="https://cryptpad.fr/form/#/2/form/view/d2DmoobcHuzvMPhAu81quw09QJgzmD0pQiJFUi3fMj0/embed/" width=100% height=500px style="overflow=hidden;" scroll=false></iframe>
 {{< /rawhtml >}}
 ```
