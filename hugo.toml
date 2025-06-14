@@ -45,7 +45,8 @@ url = "/index.xml"
 main = [
     { name = "About", url = "about/", weight = 10},
     { name = "Rules", url = "rules/", weight = 11},
-    { name = "Search", url = "search/", weight = 13 },
-    { name = "Archive", url = "archives/", weight = 12},
+    { name = "Waitlist", url = "https://cryptpad.fr/form/#/2/form/view/d2DmoobcHuzvMPhAu81quw09QJgzmD0pQiJFUi3fMj0/embed/", weight = 12 },
+    { name = "Archive", url = "archives/", weight = 13},
+    { name = "Search", url = "search/", weight = 14 },
 ]
 
