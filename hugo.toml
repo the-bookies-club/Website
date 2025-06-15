@@ -28,7 +28,11 @@ ShowFullTextinRSS = true
 [params.homeInfoParams]
 Title = ":books: Let's read together."
 Content = """
-We are a group of book lovers who enjoy action, adventure, and mystery in particular.
+We are a group of book lovers who enjoy action, adventure, and mystery in
+particular. While you're here, check out our [Rules](/rules), our great list of
+[Resources](/resources), and the list of [the books we've read](/archives). If
+you'd like to join, fill out a spot on our [wait
+list](https://cryptpad.fr/form/#/3/form/view/dea4d8cae1ea115517002c36497c0255/embed/).
 """
 
 [[params.socialIcons]]
