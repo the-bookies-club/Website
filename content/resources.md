@@ -2,4 +2,5 @@
 title: "Resources"
 url: "/resources/"
 ---
-There's currently nothing available.
+
+- [Book Review Template](https://github.com/the-bookies-club/Resources/blob/main/book-review-template.md) - A markdown template for writing your monthly book reviews.
