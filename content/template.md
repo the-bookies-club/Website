@@ -1,3 +1,9 @@
+---
+title: "Book Review Template"
+url: "/template/"
+---
+
+
 # Book Review Template
  - This template is a guideline for any review that you would like published on
    our website.
