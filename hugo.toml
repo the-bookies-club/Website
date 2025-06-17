@@ -31,7 +31,7 @@ Content = """
 We are a group of book lovers who enjoy action, adventure, and mystery in
 particular. While you're here, check out our [Rules](/rules), our great list of
 [Resources](/resources), and the list of [the books we've read](/archives). If
-you'd like to join, fill out a spot on our [Waitlist](https://docs.google.com/forms/d/e/1FAIpQLSd_GAWukAruhx3H728t20msf-snTOuYic_MH1_5v7nr7OrL_g/viewform?usp=sharing&ouid=114122033611961073447).
+you'd like to join, fill out a spot on our [Waitlist](https://nextcloud.thelinuxcast.org/apps/forms/s/e6TNn6kPzP7Tb4DgbHRAC2wR).
 """
 
 [[params.socialIcons]]
@@ -49,7 +49,7 @@ main = [
     { name = "About", url = "about/", weight = 10},
     { name = "Rules", url = "rules/", weight = 11},
     { name = "Resources", url = "resources/", weight = 12 },
-    { name = "Waitlist", url = "https://docs.google.com/forms/d/e/1FAIpQLSd_GAWukAruhx3H728t20msf-snTOuYic_MH1_5v7nr7OrL_g/viewform?usp=sharing&ouid=114122033611961073447", weight = 13 },
+    { name = "Waitlist", url = "https://nextcloud.thelinuxcast.org/apps/forms/s/e6TNn6kPzP7Tb4DgbHRAC2wR", weight = 13 },
     { name = "Archive", url = "archives/", weight = 14},
     { name = "Search", url = "search/", weight = 15 },
 ]
