@@ -2,7 +2,6 @@
 title    =  "Review: War of the Worlds by HG Wells"
 date        = "2025-08-14"
 description = ""
-draft       = true
 tags        = ["war of the worlds", "hg wells", "matt weber"]
 rssFullText = true
 
