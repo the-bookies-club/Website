@@ -49,7 +49,7 @@ main = [
     { name = "About", url = "about/", weight = 10},
     { name = "Rules", url = "rules/", weight = 11},
     { name = "Resources", url = "resources/", weight = 12 },
-    { name = "Waitlist", url = "https://nextcloud.thelinuxcast.org/apps/forms/s/e6TNn6kPzP7Tb4DgbHRAC2wR", weight = 13 },
+    { name = "Waitlist", url = "https://files.thelinuxcast.org/index.php/apps/forms/s/yxEGk4ssJyr65yZPk8KML7Kf", weight = 13 },
     { name = "Archive", url = "archives/", weight = 14},
     { name = "Search", url = "search/", weight = 15 },
 ]
