@@ -31,7 +31,7 @@ Content = """
 We are a group of book lovers who enjoy action, adventure, and mystery in
 particular. While you're here, check out our [Rules](/rules), our great list of
 [Resources](/resources), and the list of [the books we've read](/archives). If
-you'd like to join, fill out a spot on our [Waitlist](https://files.thelinuxcast.org/index.php/apps/forms/s/yxEGk4ssJyr65yZPk8KML7Kf).
+you'd like to join, fill out a spot on our [Waitlist](https://forms.gle/BBqHqaVYJ38bZt2C9).
 """
 
 [[params.socialIcons]]
@@ -49,7 +49,7 @@ main = [
     { name = "About", url = "about/", weight = 10},
     { name = "Rules", url = "rules/", weight = 11},
     { name = "Resources", url = "resources/", weight = 12 },
-    { name = "Waitlist", url = "https://files.thelinuxcast.org/index.php/apps/forms/s/yxEGk4ssJyr65yZPk8KML7Kf", weight = 13 },
+    { name = "Waitlist", url = "https://forms.gle/BBqHqaVYJ38bZt2C9", weight = 13 },
     { name = "Archive", url = "archives/", weight = 14},
     { name = "Search", url = "search/", weight = 15 },
 ]
