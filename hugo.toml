@@ -28,14 +28,11 @@ ShowFullTextinRSS = true
 [params.homeInfoParams]
 Title = ":books: Let's read together."
 Content = """
-We are a group of book lovers who enjoy action, adventure, and mystery in
-particular. While you're here, check out our [Rules](/rules), our great list of
-[Resources](/resources), and the list of [the books we've read](/archives). If
-you'd like to join, fill out a spot on our [Waitlist](https://forms.gle/BBqHqaVYJ38bZt2C9).
+We are a pair of book lovers who have chosen to share our thoughts on books here on this site.
 
 
 
-The Current Book of the Month is: [Ready Player One by Ernest Cline](https://amzn.to/3JsxxCQ).
+The Current Book of the Month is: Red Rising by Pierce Brown.
 """
 
 [[params.socialIcons]]
