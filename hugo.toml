@@ -3,6 +3,7 @@ languageCode = 'en-us'
 title = 'The Bookies Club'
 theme = 'DoIt'
 enableEmoji = true
+mainSections = ['posts', 'bookreviews']
 
 [outputs]
 home = [
