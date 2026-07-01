@@ -10,8 +10,9 @@ pagination.pagerSize = 5
 home = ["HTML", "RSS"]
 
 [params]
-  # section to list on the home page
+  # sections to list on the home page
   contentTypeName = "posts"
+  mainSections = ['posts', 'bookreviews']
 
   showMenuItems = 5
   showLanguageSelector = false
