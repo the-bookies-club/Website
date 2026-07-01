@@ -1,6 +1,6 @@
 [submodule "themes/papermod"]
 	path = themes/papermod
 	url = git@github.com:adityatelange/hugo-PaperMod.git
-[submodule "themes/DoIt"]
-	path = themes/DoIt
-	url = git@github.com:the-bookies-club/DoItTheme.git
+[submodule "themes/re-terminal"]
+	path = themes/re-terminal
+	url = git@github.com:the-bookies-club/bookiestheme.git

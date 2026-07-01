@@ -1,57 +1,75 @@
 baseURL = 'https://thebookies.club/'
 languageCode = 'en-us'
 title = 'The Bookies Club'
-theme = 'DoIt'
+theme = 're-terminal'
 enableEmoji = true
-mainSections = ['posts', 'bookreviews']
+
+pagination.pagerSize = 5
 
 [outputs]
-home = [
-    "HTML",
-    "RSS",
-    "JSON",
-]
+home = ["HTML", "RSS"]
 
 [params]
-defaultTheme = "auto"
-ShowShareButtons = true
-ShowReadingTime = true
-displayFullLangName = true
-ShowPostNavLinks = true
-ShowBreadCrumbs = true
-ShowCodeCopyButtons = true
-ShowRssButtonInSectionTermList = true
-ShowAllPagesInArchive = true
-ShowPageNums = true
-ShowToc = true
-ShowFullTextinRSS = true
+  # section to list on the home page
+  contentTypeName = "posts"
 
-[params.homeInfoParams]
-Title = ":books: Let's read together."
-Content = """
-We are a pair of book lovers who have chosen to share our thoughts on books here on this site.
+  showMenuItems = 5
+  showLanguageSelector = false
+  fullWidthTheme = false
+  centerTheme = true
+  autoCover = true
+  showLastUpdated = false
+  seriesOpenByDefault = true
+  seriesMaxItems = 0
 
+[params.twitter]
+  creator = ""
+  site = ""
 
+[languages]
+  [languages.en.params]
+    languageName = "English"
+    title = "The Bookies Club"
+    subtitle = "A pair of book lovers sharing their thoughts."
+    owner = ""
+    keywords = "books, book reviews, reading"
+    copyright = ""
+    menuMore = "Show more"
+    readMore = "Continue Reading"
+    readOtherPosts = "Read other posts"
+    newerPosts = "Newer posts"
+    olderPosts = "Older posts"
+    missingContentMessage = "Page not found..."
+    missingBackButtonLabel = "Back to home page"
+    minuteReadingTime = "min read"
+    words = "words"
 
-The Current Book of the Month is: Red Rising by Pierce Brown.
-"""
+    [languages.en.params.logo]
+      logoText = "The Bookies Club"
+      logoHomeLink = "/"
 
-[[params.socialIcons]]
-name = "github"
-title = "GitHub"
-url = "https://github.com/the-bookies-club"
-
-[[params.socialIcons]]
-name = "rss"
-title = "RSS"
-url = "/index.xml"
-
-[languages.en.menu]
-main = [
-    { name = "About", url = "about/", weight = 10},
-    { name = "Rules", url = "rules/", weight = 11},
-    { name = "Resources", url = "resources/", weight = 12 },
-    { name = "Archive", url = "archives/", weight = 14},
-    { name = "Search", url = "search/", weight = 15 },
-]
-
+    [[languages.en.menu.main]]
+      identifier = "about"
+      name = "About"
+      url = "/about"
+      weight = 10
+    [[languages.en.menu.main]]
+      identifier = "rules"
+      name = "Rules"
+      url = "/rules"
+      weight = 11
+    [[languages.en.menu.main]]
+      identifier = "resources"
+      name = "Resources"
+      url = "/resources"
+      weight = 12
+    [[languages.en.menu.main]]
+      identifier = "archive"
+      name = "Archive"
+      url = "/archives"
+      weight = 14
+    [[languages.en.menu.main]]
+      identifier = "search"
+      name = "Search"
+      url = "/search"
+      weight = 15
