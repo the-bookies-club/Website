@@ -1,7 +1,7 @@
 baseURL = 'https://thebookies.club/'
 languageCode = 'en-us'
 title = 'The Bookies Club'
-theme = 'papermod'
+theme = 'DoIt'
 enableEmoji = true
 
 [outputs]
@@ -50,7 +50,6 @@ main = [
     { name = "About", url = "about/", weight = 10},
     { name = "Rules", url = "rules/", weight = 11},
     { name = "Resources", url = "resources/", weight = 12 },
-    { name = "Waitlist", url = "https://forms.gle/BBqHqaVYJ38bZt2C9", weight = 13 },
     { name = "Archive", url = "archives/", weight = 14},
     { name = "Search", url = "search/", weight = 15 },
 ]
