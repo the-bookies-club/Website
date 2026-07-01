@@ -10,6 +10,10 @@ pagination.pagerSize = 5
 home = ["HTML", "RSS"]
 
 [params]
+  # default color theme for first-time visitors
+  defaultTheme = "nord"
+  defaultThemeVariant = "light"
+
   # sections to list on the home page
   contentTypeName = "posts"
   mainSections = ['posts', 'bookreviews']
