@@ -10,6 +10,8 @@ pagination.pagerSize = 5
 home = ["HTML", "RSS"]
 
 [params]
+  commentarioUrl = "https://commentario.thelinuxcast.org"
+
   # default color theme for first-time visitors
   defaultTheme = "nord"
   defaultThemeVariant = "light"
